@@ -4,7 +4,7 @@ function mostrar()
 {
   var codigoCanje;
 
-  prompt("ingrese su codigo de canje");
+ prompt("ingrese su codigo de canje");
 
   codigoCanje = prompt
 
